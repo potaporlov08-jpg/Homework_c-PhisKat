@@ -1,5 +1,5 @@
-#ifndef TRANSPORT_HPP
-#define TRANSPORT_HPP
+#ifndef TRANSPORT_H
+#define TRANSPORT_H
 
 #include "Inventory.h"
 #include "Errors.h"

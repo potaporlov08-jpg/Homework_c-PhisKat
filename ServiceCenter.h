@@ -1,5 +1,5 @@
-#ifndef SERVICECENTER_HPP
-#define SERVICECENTER_HPP
+#ifndef SERVICECENTER_H
+#define SERVICECENTER_H
 
 #include "Errors.h"
 #include "Inventory.h"

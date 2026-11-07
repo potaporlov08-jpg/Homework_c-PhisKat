@@ -1,5 +1,5 @@
-#ifndef REGISTRY_HPP
-#define REGISTRY_HPP
+#ifndef REGISTRY_H
+#define REGISTRY_H
 
 #include "Errors.h"
 #include <array>

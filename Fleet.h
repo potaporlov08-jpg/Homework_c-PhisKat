@@ -1,5 +1,5 @@
-#ifndef FLEET_HPP
-#define FLEET_HPP
+#ifndef FLEET_H
+#define FLEET_H
 
 #include "Errors.h"
 #include "Inventory.h"

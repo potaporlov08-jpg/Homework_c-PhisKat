@@ -1,5 +1,5 @@
-#ifndef THINGS_HPP
-#define THINGS_HPP
+#ifndef THINGS_H
+#define THINGS_H
 
 #include "Inventory.h"
 #include "Errors.h"
